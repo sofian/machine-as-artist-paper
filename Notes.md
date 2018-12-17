@@ -42,3 +42,14 @@ Jon will bring up examples and points from this reading.
 SHRDLU was criticized as focused on a frame.
 Mondrian framing.
 
+### Harold Cohen critique of Artificial Creativity
+
+Harold Cohen: Creativity is *relational* (therefore AARON is *not* creative)
+
+Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265294/
+
+Cohen (2010) Cohen H. Orcas, WA Talk given at Orcas Center, Crossroads Lecture Series Driving the creative machine. 2010.
+
+> Creativity… lay in neither the programer alone nor in the program alone, but in the dialog [sic] between program and programer; a dialog resting upon the special and peculiarly intimate relationship that had grown up between us over the years. (Cohen, 2010; p. 9) (note: Cohen had worked 43 years with AARON back in 2010)
+
+> AARON will never make a choice to break the rules, nor will it reflect on those constraints as something that it might want to change… AARON has no sense of continuity or sense of experience from one drawing to the next (Buchanan, 2001) (p. 17).
