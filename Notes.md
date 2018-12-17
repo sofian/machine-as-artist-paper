@@ -9,9 +9,14 @@ Glenn Smith, ed., "The Machine as Artist (for the 21st Century" http://www.mdpi.
 
 If a machine can make art does it mean it is an artist?
 
+In other words: If an entity creates a product (eg. a painting) that is recognized as an art object, does it entail that that entity is an artist?
+
+## Discussion
+
 What we are *not* asking: Are machines human?
 
 *If* you are human *and* you make art *then* are you an artist? In other words: Is art making a sufficient condition to be considered an artist?
+
 
 Monkey self-portraits
 
@@ -25,6 +30,16 @@ Turing Test has been "won" by machines emulating art. But could it be won by a m
 The Frame Problem
 Harold Cohen and others from .
 “JOOTSing”: Jumping Out Of The System (Frame)
+
+### Artmaking vs Authorship
+
+There exist entities that create products that are recognized as art, yet these entities are not considered the authors of that art. For example: the monkeys who took selfies.
+
+In fact we know that the producers of an art object are not necessarily its authors. Eg. *readymades*, found art, artists who employ other people to create their work.
+
+So there is clearly a dichotomy between authorship and makers/producers.
+
+Question: Does artist = author? (if so, then we have answered our question)
 
 ## References
 
