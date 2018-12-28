@@ -17,6 +17,15 @@ Humans *are* machines.
 
 *If* you are human *and* you make art *then* are you an artist? In other words: Is art making a sufficient condition to be considered an artist?
 
+Contemporary art usually defines professional artists as someone who:
+1. Is sustainably engaged in a professional artistic career ("I’m an artist if I say so")
+2. Presents their work in professional artistic contexts ("It’s art if it’s in an art context")
+3. To which I would add: Is recognized by the field as such. (Jon: what do you think?)
+
+See Duchampian definition:
+* I’m an artist if I say so.
+* It’s art if it’s in an art context.
+
 ## Counter-Examples
 
 ### Non-artist Humans who Make Art
@@ -28,6 +37,10 @@ We can imagine a human who, at some point in their life, created an artwork, yet
 We could imagine someone with a non-artistic occupation (e.g., a stay-at-home parent, a lawyer, a construction worker, etc.) who would wake up one morning, create a poem and post it online, which would then drag people's attention and win a prize within a professional poets environment.
 
 Is that person an artist?
+* (+) They created an artwork that was shown in an artistic context.
+* (-) They do not define themselves as artists.
+* (-) They are not pursuing an artistic career.
+* (-) They do not have a sustained artistic practice (the "art" kind of "happened" out of the blue, out of context, outside of practice).
 
 #### Example 2: Children
 
@@ -36,12 +49,32 @@ Children are usually not considered artists even if they make art regularly.
 Consider for example a child who would paint regularly with a certain talent, and even perhaps display their paintings in a public space such as an office or restaurant.
 
 Is that child an artist?
+* (+) They created an artwork that was shown in an artistic context.
+* (+) They have a sustained artistic practice.
+* (-) They cannot be pursuing an artistic career (because kids are not supposed to work -- at least in Western society).
+* (-) They lack the form of agency that society attributes to adults. (This could be contested though...)
 
 #### Example 3: Students
 
 Students in an art or writing class are also not considered artists _per se_ (although some of them might be professional artists).
 
 Consider an art student who has created an artwork that is praised by the whole class.
+
+Are art students artists?
+* (+/-) Students are not required to have a sustained artistic practice.
+* (-) Students are not required to show their work in professional artistic contexts.
+* (-) Students are not required to pursue an artistic career (now and in the future).
+
+#### Example 4: The Unknown Artist
+
+Some artists remain largely unknown their whole life, either by choice or by lack of opportunity. They might create artworks which they only keep in their home, or which they give to friends and family.
+
+Are they artists?
+* (+) They have a sustained artistic practice.
+* (-) They do not present their work in an artistic context.
+* (-) They are not pursuing an artistic career.
+
+Interestingly, some of them might be eventually recognized as artist, maybe even posthumously, if their work is eventually discovered and shown in professional artistic venues.
 
 ### Artistic Skills used for Non-Artistic Works
 
@@ -62,6 +95,18 @@ The distinction is well established in practice and also in law. In practice, wh
 https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute
 
 In a way this example is very similar to one where an artist would be using an algorithm or some other kind of apparatus to produce art. The reason why this example is more ambiguous is perhaps because of the higher attribution of agency that we give to apes. This agency is also clearly what allowed the artist to make the work: if he had left the same kind of situation in a herd of cows, nothing of the sort would have happened.
+
+Interestingly, an analogy could be made here with the children example, especially if we consider child "prodigies". In this case, should the caretakers of the child (who are creating the conditions for the child to create) be attributed some kind of partial (or whole) authorship?
+
+## What about Art Made by Computers?
+
+Can a nonhuman machine be (1) sustainably engaged in a professional artistic practice / career (2) present their work in professional contexts (3) is recognized by the field as an artist.
+
+Condition (2) is the low-hanging fruit: there are plenty of art made by algorithms that are shown in professional contexts. While current-days systems do not put themselves "out-there" on their own, we could presume that it would be possible, in the future, for an algorithm to not only produce art but also autonomously find professional venues where to show it.
+
+Condition (1) is more complicated. ... TO BE CONTINUED
+
+Condition (3)
 
 ## Other stuff
 
