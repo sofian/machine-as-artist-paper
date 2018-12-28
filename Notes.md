@@ -9,16 +9,61 @@ Glenn Smith, ed., "The Machine as Artist (for the 21st Century" http://www.mdpi.
 
 If a machine can make art does it mean it is an artist?
 
-In other words: If an entity creates a product (eg. a painting) that is recognized as an art object, does it entail that that entity is an artist?
+In other words: If an entity creates a product (e.g., a painting) that is recognized as an art object, does it entail that that entity is an artist?
 
 ## Discussion
 
-What we are *not* asking: Are machines human?
+Humans *are* machines.
 
 *If* you are human *and* you make art *then* are you an artist? In other words: Is art making a sufficient condition to be considered an artist?
 
+## Counter-Examples
 
-Monkey self-portraits
+### Non-artist Humans who Make Art
+
+We can imagine a human who, at some point in their life, created an artwork, yet should not be considered an artist.
+
+#### Example 1: One-hit wonder
+
+We could imagine someone with a non-artistic occupation (e.g., a stay-at-home parent, a lawyer, a construction worker, etc.) who would wake up one morning, create a poem and post it online, which would then drag people's attention and win a prize within a professional poets environment.
+
+Is that person an artist?
+
+#### Example 2: Children
+
+Children are usually not considered artists even if they make art regularly.
+
+Consider for example a child who would paint regularly with a certain talent, and even perhaps display their paintings in a public space such as an office or restaurant.
+
+Is that child an artist?
+
+#### Example 3: Students
+
+Students in an art or writing class are also not considered artists _per se_ (although some of them might be professional artists).
+
+Consider an art student who has created an artwork that is praised by the whole class.
+
+### Artistic Skills used for Non-Artistic Works
+
+There are many cases where non-artistic works are being produced using artistic skills, often even by persons who are artists.
+
+Examples include advertising, entertainment, but also documentation jobs such as courtroom artists, forensic artists, medical photographers, etc. These people are called "artists" yet what they produce is not called "art".
+
+## Art Made by Non-Artists
+
+### Example 1: Artists Employing Skilled Labor
+
+This is a very common and widely documented example. A person who is employed (or volunteers) by an artist to create part, or whole, of an artwork, is not considered to be an artist.
+
+The distinction is well established in practice and also in law. In practice, what is usually determinant is not who _produced_ the work but who _conceptualized_ the work. In law, it concerns the determination of authorship and intellectual property (laws can vary from country to country).
+
+### Example 2: Monkey Self-Portraits
+
+https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute
+
+In a way this example is very similar to one where an artist would be using an algorithm or some other kind of apparatus to produce art. The reason why this example is more ambiguous is perhaps because of the higher attribution of agency that we give to apes. This agency is also clearly what allowed the artist to make the work: if he had left the same kind of situation in a herd of cows, nothing of the sort would have happened.
+
+## Other stuff
 
 Not considered
 Duchampian definitions:
@@ -41,9 +86,16 @@ So there is clearly a dichotomy between authorship and makers/producers.
 
 Question: Does artist = author? (if so, then we have answered our question)
 
+## Creativity vs Creation
+
+Creativity = The capacity or ability to create something.
+
+Creation = The act of creating something.
+
+
 ## References
 
-Charnley, et al., “On the Notion of Framing in Computational Creativity”: context matters. 
+Charnley, et al., “On the Notion of Framing in Computational Creativity”: context matters.
 “The artifact...has no meaning outside of title etc.”
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.7711&rep=rep1&type=pdf
 Maybe machines can generate their own aesthetic context?
