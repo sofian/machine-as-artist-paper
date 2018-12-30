@@ -1,1 +1,85 @@
-This is a draft based on a focused introduction comparing the stances of Cohen and Moura. Jon will add more here soon!
+This is a draft based on a focused introduction comparing the stances of Cohen and Moura. Roughly 2500 words, include references.
+
+*Abstract*
+
+The question of whether machines can make art provokes very different answers from pioneers in the field. Harold Cohen refuses to ascribe creativity to his art-making robot AARON, while Leonel Moura argues that since his "Artbots" generate pictures from emergent properties that could not have been predicted by their creator, "they have at least some degree of creativity." Although the question of whether machines can be artists seems to fall squarely on our definition of the latter, a solution to this philosophical impasse may ironically lie in redirecting the question away from the artist him or herself.
+
+*Who invents the art?*
+
+[Add concrete example to start off the essay]
+
+Harold Cohen (1928-2016) began working with algorithmic art in 1968, decades before the art world recognized machine learning as a potential artmaking strategy. [add description of his work's evolution over time] During his 50-year collaboration with AARON, Cohen gradually refined AARON's programming to produce visual works of increasing interest to Cohen and the public he envisions for these works. In the process Cohen also redefined his own role, which has shifted from a programmer who sets rules for AARON to follow to a co-producer who serves as colorist for AARON's designs [describe current painting process]. Cohen speaks about this collaboration in terms that highlight the personal nature of this human-machine relationship: 
+
+"Creativity… lay in neither the programer alone nor in the program alone, but in the dialog between program and programer [sic]; a dialog resting upon the special and peculiarly intimate relationship that had grown up between us over the years." (Cohen, 2010; p. 9)
+
+It is in such special relationships with humans, as in his own relationship with AARON, that Cohen locates the creative potential of machines. He dislikes the word "creative" and considers the attempt to model human creativity on a computer a vain effort:
+
+"AARON will never make a choice to break the rules, nor will it reflect on those constraints as something that it might want to change… AARON has no sense of continuity or sense of experience from one drawing to the next" (Buchanan, 2001) (p. 17).
+
+As Louise Sundararajan argues, "Cohen is explicit about what creativity is not: It is not simply divergent thinking; nor is it simply algorithms and symbol manipulations." 
+
+Leonel Moura (born 1948), by comparison, is a newer recruit to the machine-human boundary. Moura began experimenting with artificial intelligence and robotic art in the late 1990s [CK], and since the 2000s [CK] has produced Artbots that make drawings based on color density [add description]. To explain his preoccupation with artmaking robots, Moura points to the long-accepted tradition of artists who explored unusual processes in order to divorce aesthetic decisions from their own received knowledge and parochial tastes:
+
+"Whether a work of art is made directly by a human artist or is the product of any other type of process is nowadays of no relevance. Recent art history shows many examples of art works based on random procedures, fortuitous explorations, objects trouvés, and arbitrary constructions. Surrealism, for example, even tried to take human consciousness out of the loop. More decisive is whether or not new art form expands the field of art."
+
+Moura claims the fact that whether his art is made with or without machines is unimportant, so long as it is accepted by the art world's gatekeepers. This claim might have been controversial for artists of Cohen's generation, and he in many ways remained an outsider artist to his death. Moure's career, however, benefits from the expanded acceptance in the past three decades of a contextual definition of art first suggested by Marcel Duchamp:
+
+"The main issue of art is art itself: its history, evolution, and innovative contributions. Anything can be considered art if validated by one of the several art world mechanisms including museums, galleries, specialized media, critics, curators, and/or collectors. Only in this way has the Duchampian ready-made and most of the art produced since been accepted and integrated into the formal art realm." (Moura 2018)
+
+While Cohen throws a wet blanket on the possibility of art born of an autonomous machine, Moura makes room for robots to act with aesthetic free will, claiming "I teach the robots how to paint, but afterward, it is not my doing." Moura sees this as a positive, and perhaps inevitable trend, asserting that "the autonomy of machines is essential to the best interests of humanity." (Moura 2018) If the shift from Cohen's to Moura's viewpoint can be extrapolated to the longer term, it would seem the time might come when machines could make art independent of human agency. Composers like Pierre Barreau are already feeding 30,000 music scores into a neural network to generate what he judges to be his machine's "original compositions." Barreau looks forward to a time when machines, not people, custom-tailor scores for individual listeners: "what we're working on is to make sure that AI can compose hundreds of hours of personalized music for those use cases where human creativity doesn't scale."
+
+*Who invents the artist?*
+
+Despite their generational and philosophical differences, Cohen and Moura are united by a common focus on identifying the artist of a work, whether the human who writes the algorithms or an autonomous robot that has merely been educated by a human. Yet another, and in some ways more important, perspective on a work's creator comes from its viewer.
+
+A thought experiment will explain why. Suppose proof came to light that the drawings and paintings Cohen had attributed to AARON were his sole creations all along, and that his videos of AARON in action were fictions designed to fool unsuspecting art critics. Such a revelation would not change who the true artist was, because that would have always been Cohen all along; but the revelation would have a huge impact on the reception of his work by lay and professional viewers. In a single stroke, we would look at a blue triangle no longer as the result of an inescapable algorithm but as the subjective paintstroke of a human artist. Some might switch from a judgment such as "not bad for a machine" to a judgment like "my four-year-old could do that." Others might turn from seeing the work as cold and sterile to imagining the work as the product of heartfelt emotion. In this sense, the "artist" as it matters for art history is not the actual person but the construct that lives in the minds of a work's beholders.
+
+This is the argument of Michel Foucault's influential 1969 essay, "What is an author?" For Foucault, and many of the post-structuralist thinkers who followed him, an artist is not so much a body that lived in particular time and place so much as a conjecture we attach to a work of art to help us make meaning of it. Foucault wrote his essay in response to Roland Barthes' 1967 provocation "The Death of the Author," which denied any necessary relationship between a text and its creator. Foucault argued that our interpretation of texts might not depend on knowing the biography and intent of the actual author, but that readers trying to interpret the text would infer the qualities of a hypothetical author  nevertheless. To give a crude example, readers of Hemmingway don't need to know he was an adventurous war hero because his writing is already taut and muscular; readers of Marcel Proust don't need to know he was a sickly shut-in, because his writing is already introspective and full of reverie.
+
+*The artist meta-function*
+
+From this perspective, our central question becomes not can machines be artists, but whether a machine can give rise to an artist function in Foucault's sense. Instead of the artist function disappearing when a machine makes art, it may be split in two. We might ascribe the first artist function to the machine--perhaps a limited one based on our understanding of the machine's finite capacity for reasoning. As of this writing, however, algorithms are still programmed by humans, and even neural networks are trained on data selected by humans. So we might ascribe a second, meta-artist function to the machine's human handler.
+
+How is this different from simply giving both human and machine collaborators credit for the creative act, as Cohen suggests? Remember that the artist function differs from the artist because it is produced by the viewer. So yes, we might learn that Harold Cohen went to art school or that Jack Ox studied musicology. But we might also look at AARON's bright shards of blue, green, and orange, and imagine that AARON's creator had seen Matisse's The Dancers. Or we might look at the fractured abstractions produced by Jack Ox's algorithms and infer that the woman who wrote them is interested in rhythm.
+
+*When artists and artist functions diverge*
+
+As historical motivation, Foucault's "What is an author?" proposes that the concept of the author was required by a legal system bent on repressing writers of transgressive texts. During the Reformation, for example, Protestant critiques of the Catholic church mass-printed via Gutenberg's press did not bear the handwriting of their creators; nonetheless, readers could reconstruct the figure of the author from the tone, diction, and substance of each manifesto. 
+
+Despite legal incentives to identify individual writers, Foucault warns us that these reconstructions are fictions, highly contingent on the nature of the text and our own station:
+
+"Nevertheless, these aspect of an individual, which we designate as an author (or which comprise an individual as an author), are projections, in terms always more or less psychological, of our way of handling texts: in the comparisons we make, the traits we extract as pertinent, the continuities we assign, or the exclusions we practice. In addition, all these operations vary according to the period and the form of discourse concerned. A 'philosopher' and a 'poet' are not constructed in the same manner; and the author of an eighteenth-century novel was formed differently from the modern novelist."
+
+These projections, however fictional, wield significant power over our interpretation of art, as an example from a more recent legal case may clarify. [Describe details of monkey copyright case] From an aesthetic standpoint, the court's ruling puts too much stress on whether the monkey intended to take a photo or not. What determines the artist function in this case is the reaction viewers have to the particular photos in question, in which a macaque stared self-possessed at the camera. In one the macaque appears to smile for the photo; in another it reaches out its hand to trigger the camera. To many viewers, these images suggested a deliberate self portrait. By contrast, if the snapshot triggered by Slater's apparatus had showed a blurry paw rather than an expressive headshot, the Daily Mail would have been unable to imagine the macaque as "fascinated by her reflection in the lens." To take a more extreme variation, if a photo of the jungle had resulted from a branch falling on a tripwire after a windstorm, few would have jumped to the conclusion that a tree was taking a selfie. Unlike these hypothetical counterexamples, the actual photos  precipitated a believable author function--and, just as is the case with a deceased author, we have no way of proving this construct true or false.
+
+Yet we can also back up to the meta level and ask ourselves what Slater was trying to construct by positioning his gear in the way he did. Regardless of Slater's actual intentions, his "algorithm"--a tripod-mounted camera with a large wide angle lens and predictive autofocus--suggests that he considered the most revealing way to depict the creatures he was studying to be a stereotypical selfie--that is, a facial closeup taken at arm's length with extension distortion caused by the wide angle lens.
+
+*Killing the meta-artist*
+
+The argument made in this essay sets another obstacle in the path toward truly autonomous artmaking machines imagined by Moura and Barreau. Apart from the eliminating the human collaborator from the equation, such autonomy would also require expunging any residual artist function. Viewers have been conditioned for thousands of years to apply empathy and interpretation to imagine motivations for the creators of works they view, and they are likely to ascribe personalities to the machinic producers of such works as well. 
+
+The creators of Siri and Microsoft's Cortana exploit this to make their devices seem more personal:
+
+"We spent a lot of time with the character design of Cortana. It’s not about anthropomorphizing your computer, it’s about these little moments of playfulness, and these moments of recognition that she’s listening to what you’re asking her and what’s important to you."
+
+Undeterred, some creators have tried to expunge as much as possible any artist or meta-artist function and the empathy it may summon in the viewer. For example, Tom Ray's Tierra is a self-evolving community of computer viruses with no fitness function apart from survival. [describe Tierra] Yet as neutral and personality-less as Tierra seems, we may still wonder about the intentions of its human architect. [insert reference to "Synthetic Ethics" essay]
+
+*Conclusion*
+
+The question we've been asking about whether machines can be artists is wrong. Art is not a measurable fact, like the temperature of bathwater; it is an interpreted condition, like whether bathwater feels warm or cold. As long as humans continue to infer motivations to creative acts, there will be artists--whether made of flesh or silicon.
+
+FOOTNOTES/REFERENCES
+
+One wonders whether Cohen's anxiety about the viewer's perception of AARON as the "true artist" in their collaboration might have been the reason he chose a more active role in their paintings toward the end of his life [research this bold claim :) ]
+
+Damon Beres, "Microsoft's Cortana Is Like Siri With A Human Personality," HuffPost, 07/29/2015, https://www.huffingtonpost.com/entry/microsofts-cortana-is-like-siri-with-a-human-personality_us_55b7be94e4b0a13f9d1a685a, accessed December 29, 2018.
+
+Leonel Moura, "Robot Art: An Interview with Leonel Moura," _MDPI Arts_, 18 July 2018.
+
+Pierre Barreau, "How AI could compose a personalized soundtrack to your life," TED 2018 (April 2018), https://www.ted.com/talks/pierre_barreau_how_ai_could_compose_a_personalized_soundtrack_to_your_life/, accessed December 29, 2018.
+
+UNUSED
+
+"Art made by robots also raises other kinds of issues. For the moment, robots and their algorithms important criterion in evaluating artistic projects than personal ability. remain human creations. In this sense, it can be said that their artistic production originates in the will and skill of the human artist. But since robots like those I use are able to generate novelty, it must also be recognized that they have at least some degree of creativity....the resulting art works cannot be predetermined even by the person who initiates the process. "  (Moura 2018)
+
+"No one will claim that a given novel is the product of the author's school teacher."  (Moura 2018)
