@@ -75,13 +75,21 @@ Such empathic impulses may inevitably spur the viewer to construct an artistic p
 
 Zoologist and artificial Life pioneer Tom Ray takes a more radical approach to eliminating a meta-artist function from his creation. Tierra is a self-evolving community of computer viruses with no fitness function apart from survival. To create this artificial ecosystem, Ray created an environment on his hard drive filled with snippets of program code designed to copy themselves with every cycle of his computer. He further programmed this environment to introduce random mutations in the code of these tiny programs. By competing for disk space, the resulting virtual creatures evolve according to the same logic of self-replication and mutation that drives biological evolution, generating new "species" that Ray never could have predicted. Ray himself claims that his creatures are alive by the very fact that they reproduce and evolve.
 
-Yet as neutral and personality-less as Tierra seems, we may still wonder about the intentions of its human architect. Asked if he felt guilty turning off his machine and erasing all his digital progeny, Ray replied that he could always recreate that exact set of creatures just by resetting his Tierra program to the same initial conditions, arguing he had created the organisms only in the sense of creating the potential for them to exist. Reading this response, some may imagine Ray to a heartless psychopath, while others will judge him be a principled man of science.  More important than the judgment itself is the fact that the question came up in the first place. Whether Tierra's critters are alive or inanimate, some viewers want to know the motivation behind the man who created them. At its most abstract, it is perhaps the same impulse that inspires cultures to look upon nature and imagine its Creator--the ultimate meta-artist. [Footnote: see Ippolito 1999 for more on the extrapolation of ethical responsibility from AI experiments.]
+Yet as neutral and personality-less as Tierra seems, we may still wonder about the intentions of its human architect. Asked if he felt guilty turning off his machine and erasing all his digital progeny, Ray replied that he could always recreate that exact set of creatures just by resetting his Tierra program to the same initial conditions, arguing he had created the organisms only in the sense of creating the potential for them to exist. Reading this response, some may imagine Ray to a heartless psychopath, while others will judge him be a principled man of science.
+
+Anthropologist Stefan Helmreich, who analyzed the artificial life scientific movememnt in the late 1980s and 1990s, argues that works such as Tierra are built upon a dualistic and computationalist vision of the living enabled by a "symbolically masculine collapse of life into instrumentally useful information process" which is indistinguishable from the historico-cultural context that he found at SFI (upper middle-class, judeo-christian white men influenced by New Age, sci-fi and Western creation stories) (Helmreich 2000, p. 216).
+
+More important than the judgment itself is the fact that the question came up in the first place. Whether Tierra's critters are alive or inanimate, some viewers want to know the motivation behind the man who created them. At its most abstract, it is perhaps the same impulse that inspires cultures to look upon nature and imagine its Creator--the ultimate meta-artist.
+
+[Footnote: see Ippolito 1999 for more on the extrapolation of ethical responsibility from AI experiments.]
 
 *Conclusion*
 
 The question we started with--can machines be artists?--is the wrong question. Art is not a measurable fact, like the temperature of bathwater; it is an interpreted condition, like whether bathwater feels warm or cold. As long as humans continue to infer motivations to creative acts, artists will exist as social constructs--whether we imagine them composed of flesh or silicon. [so what would be the right question? JON: How about something like "What roles does machine-made art leave for artists--imagined or real, flesh or silicon?"]
 
 FOOTNOTES/REFERENCES
+
+Helmreich, Stefan. Silicon Second Nature: Culturing Artificial Life in a Digital World. Updated. Berkeley; Los Angeles: University of California Press, 2000.
 
 Jon Ippolito, "Should you feel guilty turning off the computer?" Artbyte (New York) 1, no. 6 (February-March 1999), pp. 16-17. Online at http://three.org/ippolito/writing/wri_cross_feel.html, accessed December 30, 2018.
 
