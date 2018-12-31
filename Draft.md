@@ -6,7 +6,7 @@ The question of whether machines can make art provokes very different answers fr
 
 *Who invents the art?*
 
-[Add concrete example to start off the essay?]
+[Add concrete example to start off the essay?: maybe we could use the example of afro-american trombonist George Lewis created in the 1980s a software called "Voyager" which he described in a few articles as a companion / collaborator.]
 
 Harold Cohen (1928-2016) began working with algorithmic art in 1968, decades before the art world recognized artificial intelligence as a potential artmaking strategy. [add description of his work's evolution over time] During his 50-year collaboration with AARON, Cohen gradually refined AARON's programming to produce visual works of increasing interest to Cohen and the public he envisions for these works. In the process Cohen also redefined his own role, which has shifted from a programmer who sets rules for AARON to follow to a co-producer who serves as colorist for AARON's designs [describe current painting process]. Cohen speaks about this collaboration in terms that highlight the personal nature of this human-machine relationship:
 
